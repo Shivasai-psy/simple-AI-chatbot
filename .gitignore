@@ -1,0 +1,8 @@
+# Vitrual Environment 
+venv/
+
+# Environment Variables
+.env 
+
+## VS Code 
+.vscode/
