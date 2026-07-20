@@ -128,20 +128,8 @@ python-dotenv
 ## 💻 Sample Output
 
 ```
-----------------------------------------
-🤖 simple-AI-chatbot
-----------------------------------------
-You:
-Hello
-Bot:
-Hello! How can I assist you today?
-----------------------------------------
-You:
-What is Artificial Intelligence?
-Bot:
-Artificial Intelligence (AI) is a branch of computer science that enables machines to simulate human intelligence, including learning, reasoning, problem-solving, and decision-making.
-----------------------------------------
-```
+<img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/5f321f0f-8d9d-44b5-8023-912b2eb8840a" />
+---
 ---
 
 ## 📈 Future Enhancements
