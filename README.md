@@ -131,57 +131,17 @@ python-dotenv
 ----------------------------------------
 🤖 simple-AI-chatbot
 ----------------------------------------
-
 You:
 Hello
-
 Bot:
 Hello! How can I assist you today?
-
 ----------------------------------------
-
 You:
 What is Artificial Intelligence?
-
 Bot:
 Artificial Intelligence (AI) is a branch of computer science that enables machines to simulate human intelligence, including learning, reasoning, problem-solving, and decision-making.
-
-----------------------------------------
-
-You:
-Explain Machine Learning.
-
-Bot:
-Machine Learning is a subset of AI that allows computers to learn patterns from data and improve their performance without being explicitly programmed.
-
 ----------------------------------------
 ```
-
----
-
-## 📸 Sample Interface
-
-```
-+------------------------------------------------------+
-|                 🤖 AI Chatbot                         |
-|------------------------------------------------------|
-| You : Hello                                          |
-|                                                      |
-| Bot : Hello! How can I help you today?              |
-|                                                      |
-| You : Explain AI                                     |
-|                                                      |
-| Bot : Artificial Intelligence is...                 |
-|                                                      |
-|------------------------------------------------------|
-| Type your message...                    [ Send ]     |
-+------------------------------------------------------+
-```
-
-*(Replace this section with an actual screenshot if available.)*
-
----
-
 ---
 
 ## 📈 Future Enhancements
