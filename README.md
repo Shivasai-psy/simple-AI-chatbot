@@ -127,10 +127,7 @@ python-dotenv
 
 ## 💻 Sample Output
 
-```
 <img width="900" height="700" alt="image" src="https://github.com/user-attachments/assets/5f321f0f-8d9d-44b5-8023-912b2eb8840a" />
----
----
 
 ## 📈 Future Enhancements
 
