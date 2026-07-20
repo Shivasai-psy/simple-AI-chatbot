@@ -34,10 +34,8 @@ simple-AI-chatbot/
 │   └── index.html          
 │
 ├── static/
-│   ├── style.css           
-│   └── script.js           
-│
-└── screenshots 
+    ├── style.css           
+    └── script.js           
 ```
 
 ---
