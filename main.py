@@ -3,7 +3,7 @@ from config import API_KEY
 
 client = genai.configure(api_key = API_KEY)
 
-print('--------🤖AI CHAT ASSISTANT🤖---------')
+print('🤖simple-AI-chatbot--------')
 
 def get_response():
     while True:
